@@ -118,7 +118,7 @@ You can run these two commands from VS Code's integrated terminal
 
 ---
 
-## 🧮 Scoring Formulas (from the report)
+## 🧮 Scoring Formulas
 
 **Batsman**
 ```
@@ -148,7 +148,7 @@ Score = (Wickets × 1.5 × 0.30) + ((12 - Economy) × 3 × 0.25)
 
 ---
 
-## 🚀 Future Enhancements (from §5 of the report)
+## 🚀 Future Enhancements
 
 - Live IPL stats integration via REST API
 - Bar charts with JFreeChart for visual comparison
